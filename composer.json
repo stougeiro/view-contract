@@ -1,6 +1,6 @@
 {
     "name": "stougeiro/view-contract",
-    "description": "",
+    "description": "A minimal and extensible view contract for PHP, providing alias‑based view resolution, global data sharing, and pluggable rendering engines.",
     "type": "library",
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -12,6 +12,19 @@
         }
     ],
     "keywords": [
+        "view",
+        "template",
+        "view manager",
+        "view engine",
+        "render",
+        "contract",
+        "interface",
+        "php",
+        "alias",
+        "view alias",
+        "resolver",
+        "pluggable",
+        "extensible"
     ],
     "support": {
         "issues": "https://github.com/stougeiro/view-contract/issues",
