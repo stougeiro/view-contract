@@ -3,7 +3,7 @@
     namespace STDW\Contract\View;
 
 
-    interface AliasAwareInterface extends ViewManagerInterface
+    interface AliasManagerInterface
     {
         /**
          * Sets or retrieves a view path alias.
